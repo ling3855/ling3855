@@ -6,7 +6,7 @@
 </p>
 
 <h2 align="center"> Hi there!</h3>
-<p align="center">Hi, I'm Linda ! I'm still learning about coding and trying to discover more about the world of programming. Every day is a chance to learn something new, and I'm excited to keep growing and building projects along the way. ✨💻🌟</p>
+<p align="center">Hi, I'm Linda ! I'm still trying to discover more about the world of programming. Every day is a chance to learn something new, and I'm excited to keep growing and building projects along the way. ✨💻🌟</p>
 
 
 <br>
