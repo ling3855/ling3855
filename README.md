@@ -2,7 +2,7 @@
   <img src="https://my-cool-gif-bucket.s3.us-east-2.amazonaws.com/github_profile.gif" style="width: 80%; height: auto;" />
 </p>
 <p align="center">
-  🎨 Artwork Credit: <a href="https://www.pixilart.com/art/mystical-sunset-sr2a608ca9014aws3?ft=featured&ft_id=">pineapple-Man54</a>
+  🎨 Artwork Credit: <a href="https://www.pixilart.com/art/tree-tops-3bc5544fe17e46f?ft=topic&ft_id=2">Marcie</a>
 </p>
 
 <h2 align="center"> Hi there!</h3>
